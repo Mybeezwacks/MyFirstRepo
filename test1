@@ -1,0 +1,1 @@
+t's very easy to start working on code and then realize you have been working in the wrong branch the whole time. The stash command allows moving those changes to the correct branch without having to lose them. Stashing helps you record the changes and then switch to the correct branch and apply them there.
