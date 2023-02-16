@@ -1,1 +1,2 @@
 This is some text
+Adding to text file "This file was edited in GitHub!".
